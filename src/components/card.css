@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    #hij456 {
+        opacity: 0;
+    }
+
+    #mno345 {
+        opacity: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    #bcd890 {
+        opacity: 0;
+    }
+
+    #def456 {
+        opacity: 0;
+    }
+}
